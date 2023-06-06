@@ -9,6 +9,7 @@ public class Main {
 
         NameShape nameShape = new NameShape();
 
+        
         System.out.println(nameShape.getNameShape(triangle));
 
     }
