@@ -1,7 +1,7 @@
 public abstract class Shape {
 
-    @Override
-    public String toString() {
-        return "Фигуры";
+
+    public String getNameShape(){
+        return "Фигури";
     }
 }

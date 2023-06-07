@@ -1,6 +1,7 @@
 public class Circle extends Shape {
+
     @Override
-    public String toString() {
+    public String getNameShape() {
         return "Круг";
     }
 }

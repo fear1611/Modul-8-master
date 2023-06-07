@@ -1,6 +1,7 @@
 public class Rhombus extends Shape {
+
     @Override
-    public String toString() {
+    public String getNameShape() {
         return "Ромб";
     }
 }

@@ -1,6 +1,8 @@
 public class Octagon extends Shape {
+
     @Override
-    public String toString() {
+    public String getNameShape() {
         return "Восьмикутник";
     }
 }
+

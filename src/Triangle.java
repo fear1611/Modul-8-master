@@ -1,6 +1,6 @@
 public class Triangle extends Shape{
     @Override
-    public String toString() {
+    public String getNameShape() {
         return "Трикутник";
     }
 }
