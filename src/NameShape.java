@@ -3,4 +3,8 @@ public class NameShape extends Shape{
         return shape.getNameShape();
     }
 
+    @Override
+    public String getNameShape() {
+        return "Name Shape";
+    }
 }
